@@ -4,7 +4,7 @@
 
 ### BSIT 3 – BLK 1 
 ### Assignment No. 04: HTML, CSS, and JavaScript 
-###ELECTIT3L: WEB SYSTEMS AND TECHNOLOGIES
+### ELECTIT3L: WEB SYSTEMS AND TECHNOLOGIES
 
 >HTML, CSS, and JavaScript Now that you've explored HTML, CSS, and JavaScript, take a moment to compare your thoughts and feelings about them. Which of them seems the most natural and which seems the most challenging for you?
 
