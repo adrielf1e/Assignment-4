@@ -8,7 +8,7 @@
 
 >HTML, CSS, and JavaScript Now that you've explored HTML, CSS, and JavaScript, take a moment to compare your thoughts and feelings about them. Which of them seems the most natural and which seems the most challenging for you?
 
-###Requirements: • Write your reaction to your repository drive and attached the link here. • copy and paste your reaction on the forum after this assignment.
+### Requirements: • Write your reaction to your repository drive and attached the link here. • copy and paste your reaction on the forum after this assignment.
 
 In today's digital age, website development has become an essential skill to master. The three main technologies used in website creation are HTML, CSS, and JavaScript. HTML is a markup language that is used to structure the content of a web page. It is easy to learn and involves the use of tags to define the elements on the page. On the other hand, CSS is used to style and format web pages. While it may be more challenging to learn than HTML, it is crucial for creating visually appealing and user-friendly websites.
 
